@@ -1,8 +1,9 @@
+
 # Greetings, Fellow Code Adventurer! 🚀
 
-
+```
 const aboutMe = {
-  name: "Kenny Wambua",
+  name: "Kennedy",
   title: "Code Artisan | Digital Explorer",
   passions: ["Crafting Seamless Experiences", "Unraveling Complex Problems", "Pushing Boundaries"],
   techStack: ["C#", "ASP.NET Core", "JavaScript", "React", "React Native"],
@@ -29,7 +30,7 @@ function collaborate() {
 
 embarkOnJourney();
 collaborate();
-
+```
 
 ## 🌟 Illuminating the Code Cosmos
 
@@ -48,6 +49,4 @@ In the enigmatic realms of Data Mining and NLP, I transmute data into gold. As a
 ### 🚀 Let's Code the Future Together!
 
 Join me in sculpting the future with code, and let's chart new territories together! Connect with me to embark on a digital odyssey.
-
----
 
