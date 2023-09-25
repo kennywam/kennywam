@@ -1,7 +1,7 @@
 
 # Greetings, Fellow Code Adventurer! 🚀
 
-```
+```javascript
 const aboutMe = {
   name: "Kennedy",
   title: "Code Artisan | Digital Explorer",
