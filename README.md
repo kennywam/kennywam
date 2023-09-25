@@ -34,7 +34,7 @@ collaborate();
 
 ## 🌟 Illuminating the Code Cosmos
 
-Greetings, fellow traveler in the digital realm! I am Your Name, a passionate Code Artisan with a flair for crafting seamless user experiences. My journey is fueled by a passion for unraveling complex problems and pushing boundaries.
+Greetings, fellow traveler in the digital realm! I am Kennedy, a passionate Code Artisan with a flair for crafting seamless user experiences. My journey is fueled by a passion for unraveling complex problems and pushing boundaries.
 
 ### 💡 Tech Arsenal:
 
