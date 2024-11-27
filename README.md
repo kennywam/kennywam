@@ -1,4 +1,4 @@
-# Kennedy | Software Engineer
+# Kennedy | Full-Stack Software Engineer
 
 ### 💻 Technical Expertise
 **Languages & Frameworks:**
@@ -24,7 +24,7 @@
 - Natural Language Processing (NLP)
 
 ### 🚀 Professional Summary
-Dedicated software developer with a passion for crafting innovative solutions and solving complex technical challenges. Specializing in creating seamless user experiences through robust, scalable applications.
+Dedicated software engineer with a passion for crafting innovative solutions and solving complex technical challenges. Specializing in creating seamless user experiences through robust, scalable applications.
 
 ### 📊 Technical Skills
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
