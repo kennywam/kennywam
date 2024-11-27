@@ -1,4 +1,4 @@
-# Kennedy | Full-Stack Software Engineer
+# Kennedy | Software Engineer
 
 ### 💻 Technical Expertise
 **Languages & Frameworks:**
