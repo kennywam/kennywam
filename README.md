@@ -1,6 +1,4 @@
-# Kennedy | Software Developer
-
-## Professional Profile
+# Kennedy | Software Engineer
 
 ### 💻 Technical Expertise
 **Languages & Frameworks:**
