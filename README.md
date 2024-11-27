@@ -38,7 +38,7 @@ Dedicated software developer with a passion for crafting innovative solutions an
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🌐 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](https://www.yourportfolio.com) | [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/kennedy-wambua-4623841ba/) | [Portfolio](https://kennywam.github.io/) | [Email](kennywambu254@gmail.com)
 
 ### 🏆 Featured Projects
 - **Project Alchemy**: Advanced data mining solution leveraging NLP techniques
@@ -46,6 +46,6 @@ Dedicated software developer with a passion for crafting innovative solutions an
 - **SharePoint Integration Tool**: Enterprise-level collaboration solution
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=professional)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kennywam&show_icons=true&theme=professional)
 
 **Always learning, always growing.**
