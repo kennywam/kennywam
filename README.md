@@ -43,7 +43,4 @@ Dedicated software engineer with a passion for crafting innovative solutions and
 - **Next.js & NestJS Microservices**: Scalable full-stack application with modern architecture
 - **SharePoint Integration Tool**: Enterprise-level collaboration solution
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kennywam&show_icons=true&theme=professional)
-
 **Always learning, always growing.**
