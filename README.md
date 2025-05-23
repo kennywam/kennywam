@@ -1,3 +1,5 @@
+---
+
 # 👨‍💻 Kennedy Wambua | Software Engineer
 
 ---
@@ -52,20 +54,27 @@ Detail-oriented **Software Engineer** with a strong foundation in **full-stack d
 
 ### 🌟 Featured Projects
 
-* **🔍 Project Alchemy**
-  *A data mining platform harnessing the power of NLP to generate intelligent insights from complex datasets.*
+#### 🛒 **EProcurement System**
 
-* **⚙️ Next.js & NestJS Microservices Architecture**
-  *End-to-end full-stack application showcasing scalable architecture using modern technologies.*
+A robust procurement lifecycle platform that streamlines requisitions, bidding, vendor selection, purchase orders, and deliveries. Features include role-based access, audit trails, and real-time collaboration.
 
-* **🗂️ SharePoint Integration Tool**
-  *An enterprise-grade collaboration platform extension, streamlining internal document workflows and data access.*
+#### 📚 **KnowledgeBase Platform**
+
+An internal knowledge management tool allowing teams to document processes, share insights, and organize institutional knowledge. Includes advanced search, rich text editing, and tagging.
+
+#### 🏥 **Health System App (Entire Health)**
+
+A patient-centric digital health solution for hospitals and clinics, providing modules for patient records, appointment scheduling, reporting, and inventory tracking.
+
+#### 🏢 **ERP System**
+
+A modular Enterprise Resource Planning solution encompassing HR, finance, procurement, and asset management. Built for scalability and integration across departments.
 
 ---
 
 ### 🎧 Now Playing on Spotify
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/album/20r762YmB5HeofjMCiPMLv?utm_source=generator)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/314f2dsltzrkaojwnuq2ax3qapru)
 
 ---
 
@@ -77,7 +86,7 @@ Detail-oriented **Software Engineer** with a strong foundation in **full-stack d
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 > **Always learning. Always growing. Always building.**
 
 ---
