@@ -65,7 +65,7 @@ Detail-oriented **Software Engineer** with a strong foundation in **full-stack d
 
 ### 🎧 Now Playing on Spotify
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/album/20r762YmB5HeofjMCiPMLv?utm_source=generator)
 
 ---
 
