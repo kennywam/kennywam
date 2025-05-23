@@ -1,5 +1,3 @@
----
-
 # 👨‍💻 Kennedy Wambua | Software Engineer
 
 ---
@@ -15,8 +13,10 @@ Detail-oriented **Software Engineer** with a strong foundation in **full-stack d
 * Full-Stack Web & Mobile Development
 * RESTful & GraphQL API Design
 * Software Architecture & Microservices
-* Software Project Management
+* DevOps & Server Configuration (Nginx, PM2)
 * Quality Assurance & Automated Testing
+* CI/CD Integration & Code Versioning
+* Software Project Management
 * Data Mining & Natural Language Processing (NLP)
 
 ---
@@ -25,30 +25,36 @@ Detail-oriented **Software Engineer** with a strong foundation in **full-stack d
 
 #### **Languages & Frameworks**
 
-* C#, ASP.NET Core, Entity Framework Core
-* JavaScript / TypeScript
+* JavaScript / TypeScript / Go / C#
 * React, React Native, Next.js
-* NestJS
+* NestJS, ASP.NET Core
+* Entity Framework Core
 
 #### **Tools & Technologies**
 
+* PostgreSQL, SQL Server, MongoDB
+* Redux, Zustand for State Management
+* Cypress, Jest for Testing
 * Git & GitHub
-* Redux for State Management
-* Cypress for E2E Testing
+* Docker, Nginx, PM2
 * SharePoint Development
-* PostgreSQL & SQL Server
+* REST & GraphQL APIs
 
 ---
 
 ### 📊 Technical Badges
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
 
 ---
 
@@ -89,4 +95,3 @@ A modular Enterprise Resource Planning solution encompassing HR, finance, procur
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 > **Always learning. Always growing. Always building.**
 
----
