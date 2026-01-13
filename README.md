@@ -25,10 +25,9 @@ Detail-oriented **Software Engineer** specializing in **full-stack development**
 ## Tech Stack & Tools
 
 ### Languages & Frameworks
-* JavaScript / TypeScript / Go / C# / Python
+* JavaScript / TypeScript / Go / Python
 * React, React Native, Next.js
-* NestJS, ASP.NET Core
-* Entity Framework Core
+* ExpressJs, NestJS
 * TensorFlow, PyTorch, Scikit-learn
 
 ### AI/ML & Data Science
@@ -44,7 +43,6 @@ Detail-oriented **Software Engineer** specializing in **full-stack development**
 * Cypress, Jest for Testing
 * Git & GitHub
 * Docker, Nginx, PM2
-* SharePoint Development
 * REST & GraphQL APIs
 
 ---
@@ -69,23 +67,17 @@ Detail-oriented **Software Engineer** specializing in **full-stack development**
 
 ## Featured Projects
 
+### Lightwind AI
+An AI-powered platform that automates business document workflows and data intelligence. Uses machine learning and natural language processing to analyze, extract, and match documents such as invoices, purchase orders, and contracts, reducing manual work and improving accuracy—while enabling data-driven decisions through predictive analytics and natural language insights.
+
 ### Nobelync
 A comprehensive health records management system designed to digitize and streamline patient data management. Features include secure medical record storage, patient history tracking, appointment management, and HIPAA-compliant data handling with role-based access controls for healthcare providers.
-
-### Lightwind AI
-An intelligent business document matcher powered by machine learning and natural language processing. Automatically analyzes, categorizes, and matches business documents such as invoices, purchase orders, and contracts, reducing manual processing time and improving accuracy in document workflows.
-
-### AI for Business
-A suite of AI-powered business tools designed to enhance operational efficiency. Includes intelligent document processing, automated data extraction, predictive analytics, and natural language interfaces for business intelligence, enabling data-driven decision-making across various business functions.
 
 ### EProcurement System
 A comprehensive procurement lifecycle platform that streamlines requisitions, bidding, vendor selection, purchase orders, and deliveries. Features include role-based access control, comprehensive audit trails, and real-time collaboration capabilities.
 
 ### KnowledgeBase Platform
 An enterprise knowledge management solution enabling teams to document processes, share insights, and organize institutional knowledge. Includes advanced search functionality, rich text editing, version control, and intelligent tagging systems.
-
-### Health System App (Entire Health)
-A patient-centric digital health solution for hospitals and clinics, providing integrated modules for electronic health records, appointment scheduling, clinical reporting, and inventory tracking with regulatory compliance.
 
 ### ERP System
 A modular Enterprise Resource Planning solution encompassing HR management, financial operations, procurement workflows, and asset tracking. Built with scalability and cross-departmental integration as core design principles.
