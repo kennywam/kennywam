@@ -1,37 +1,44 @@
-# 👨‍💻 Kennedy Wambua | Software Engineer
+# Kennedy Wambua | Software & AI Engineer
 
 ---
 
-### 💼 Professional Summary
+## Professional Summary
 
-Detail-oriented **Software Engineer** with a strong foundation in **full-stack development**, passionate about building clean, scalable, and impactful applications. With hands-on experience in both frontend and backend technologies, I specialize in delivering intuitive user interfaces and robust system architectures that solve real-world problems.
+Detail-oriented **Software Engineer** specializing in **full-stack development** and **AI engineering**, with a strong focus on building scalable, production-ready applications. Experienced in designing robust system architectures, implementing machine learning solutions, and delivering intuitive user experiences that solve complex real-world problems. Proficient in both traditional software development and modern AI/ML workflows.
 
 ---
 
-### 🚀 Core Competencies
+## Core Competencies
 
 * Full-Stack Web & Mobile Development
+* AI/ML Engineering & Model Integration
+* Natural Language Processing & Data Mining
 * RESTful & GraphQL API Design
 * Software Architecture & Microservices
-* DevOps & Server Configuration (Nginx, PM2)
+* DevOps & Infrastructure Management (Nginx, Docker, PM2)
 * Quality Assurance & Automated Testing
 * CI/CD Integration & Code Versioning
 * Software Project Management
-* Data Mining & Natural Language Processing (NLP)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-#### **Languages & Frameworks**
-
-* JavaScript / TypeScript / Go / C#
+### Languages & Frameworks
+* JavaScript / TypeScript / Go / C# / Python
 * React, React Native, Next.js
 * NestJS, ASP.NET Core
 * Entity Framework Core
+* TensorFlow, PyTorch, Scikit-learn
 
-#### **Tools & Technologies**
+### AI/ML & Data Science
+* Large Language Models (LLMs) Integration
+* Natural Language Processing (NLP)
+* Machine Learning Model Development & Deployment
+* Data Analysis & Visualization
+* Vector Databases & Embeddings
 
+### Tools & Infrastructure
 * PostgreSQL, SQL Server, MongoDB
 * Redux, Zustand for State Management
 * Cypress, Jest for Testing
@@ -42,56 +49,63 @@ Detail-oriented **Software Engineer** with a strong foundation in **full-stack d
 
 ---
 
-### 📊 Technical Badges
+## Technical Badges
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
-
----
-
-### 🌟 Featured Projects
-
-#### 🛒 **EProcurement System**
-
-A robust procurement lifecycle platform that streamlines requisitions, bidding, vendor selection, purchase orders, and deliveries. Features include role-based access, audit trails, and real-time collaboration.
-
-#### 📚 **KnowledgeBase Platform**
-
-An internal knowledge management tool allowing teams to document processes, share insights, and organize institutional knowledge. Includes advanced search, rich text editing, and tagging.
-
-#### 🏥 **Health System App (Entire Health)**
-
-A patient-centric digital health solution for hospitals and clinics, providing modules for patient records, appointment scheduling, reporting, and inventory tracking.
-
-#### 🏢 **ERP System**
-
-A modular Enterprise Resource Planning solution encompassing HR, finance, procurement, and asset management. Built for scalability and integration across departments.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
-### 🎧 Now Playing on Spotify
+## Featured Projects
+
+### Nobelync
+A comprehensive health records management system designed to digitize and streamline patient data management. Features include secure medical record storage, patient history tracking, appointment management, and HIPAA-compliant data handling with role-based access controls for healthcare providers.
+
+### Lightwind AI
+An intelligent business document matcher powered by machine learning and natural language processing. Automatically analyzes, categorizes, and matches business documents such as invoices, purchase orders, and contracts, reducing manual processing time and improving accuracy in document workflows.
+
+### AI for Business
+A suite of AI-powered business tools designed to enhance operational efficiency. Includes intelligent document processing, automated data extraction, predictive analytics, and natural language interfaces for business intelligence, enabling data-driven decision-making across various business functions.
+
+### EProcurement System
+A comprehensive procurement lifecycle platform that streamlines requisitions, bidding, vendor selection, purchase orders, and deliveries. Features include role-based access control, comprehensive audit trails, and real-time collaboration capabilities.
+
+### KnowledgeBase Platform
+An enterprise knowledge management solution enabling teams to document processes, share insights, and organize institutional knowledge. Includes advanced search functionality, rich text editing, version control, and intelligent tagging systems.
+
+### Health System App (Entire Health)
+A patient-centric digital health solution for hospitals and clinics, providing integrated modules for electronic health records, appointment scheduling, clinical reporting, and inventory tracking with regulatory compliance.
+
+### ERP System
+A modular Enterprise Resource Planning solution encompassing HR management, financial operations, procurement workflows, and asset tracking. Built with scalability and cross-departmental integration as core design principles.
+
+---
+
+## Now Playing on Spotify
 
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/314f2dsltzrkaojwnuq2ax3qapru)
 
 ---
 
-### 🌐 Let's Connect
+## Let's Connect
 
-📫 [Email](mailto:kennywambu254@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/kennedy-wambua-4623841ba/)
+📫 [Email](mailto:kennywambu254@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kennedy-wambua-4623841ba/)  
 🌍 [Portfolio](https://kennywam.github.io/)
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-> **Always learning. Always growing. Always building.**
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
+**Always learning. Always growing. Always building.**
