@@ -24,7 +24,7 @@ Currently building **[Mintfa](https://mintfa.com/)** — a modular financial inf
 
 **Data & Infrastructure**
 
-`PostgreSQL` · `Prisma` · `Redis` · `MongoDB` · `Docker` · `Cloudflare` · `Render` · `Azure`
+`PostgreSQL` · `Prisma` · `Redis` · `MongoDB` · `Docker` · `Cloudflare` · `Render` · `Azure` · `AWS` 
 
 **AI**
 
