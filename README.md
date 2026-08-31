@@ -177,12 +177,6 @@ Platform Engineering
 
 ---
 
-## Now Playing
-
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/314f2dsltzrkaojwnuq2ax3qapru)
-
----
-
 ## Connect
 
 📫 [Email](mailto:kennywambu254@gmail.com)
