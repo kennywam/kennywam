@@ -1,103 +1,195 @@
-# Kennedy Wambua | Software & AI Engineer
+# Kennedy Wambua
+
+### Software Engineer · Full-Stack · Fintech · AI Systems
+
+I’m a software engineer focused on building **scalable web platforms, backend systems, financial infrastructure, and AI-powered products**.
+
+My work spans the full engineering lifecycle — from system architecture and database design to APIs, frontend applications, infrastructure, testing, and production deployments.
+
+I’m particularly interested in **fintech infrastructure, payments, distributed systems, developer platforms, and applied AI**.
+
+Currently building **[Mintfa](https://mintfa.com/)** — a modular financial infrastructure platform designed to make it easier for African businesses and developers to build financial products.
 
 ---
 
-## Professional Summary
+## What I Work With
 
-Detail-oriented **Software Engineer** specializing in **full-stack development** and **AI engineering**, with a strong focus on building scalable, production-ready applications. Experienced in designing robust system architectures, implementing machine learning solutions, and delivering intuitive user experiences that solve complex real-world problems. Proficient in both traditional software development and modern AI/ML workflows.
+**Frontend**
 
----
+`React` · `Next.js` · `TypeScript` · `React Native` · `Tailwind CSS` · `shadcn/ui`
 
-## Core Competencies
+**Backend**
 
-* Full-Stack Web & Mobile Development
-* AI/ML Engineering & Model Integration
-* Natural Language Processing & Data Mining
-* RESTful & GraphQL API Design
-* Software Architecture & Microservices
-* DevOps & Infrastructure Management (Nginx, Docker, PM2)
-* Quality Assurance & Automated Testing
-* CI/CD Integration & Code Versioning
-* Software Project Management
+`Node.js` · `NestJS` · `Express` · `Go` · `REST APIs` · `GraphQL`
 
----
+**Data & Infrastructure**
 
-## Tech Stack & Tools
+`PostgreSQL` · `Prisma` · `Redis` · `MongoDB` · `Docker` · `Cloudflare` · `Render` · `Azure`
 
-### Languages & Frameworks
-* JavaScript / TypeScript / Go / Python
-* React, React Native, Next.js
-* ExpressJs, NestJS
-* TensorFlow, PyTorch, Scikit-learn
+**AI**
 
-### AI/ML & Data Science
-* Large Language Models (LLMs) Integration
-* Natural Language Processing (NLP)
-* Machine Learning Model Development & Deployment
-* Data Analysis & Visualization
-* Vector Databases & Embeddings
+`LLM Integration` · `AI Agents` · `RAG` · `Embeddings` · `Natural Language Interfaces` · `AI-assisted workflows`
 
-### Tools & Infrastructure
-* PostgreSQL, SQL Server, MongoDB
-* Redux, Zustand for State Management
-* Cypress, Jest for Testing
-* Git & GitHub
-* Docker, Nginx, PM2
-* REST & GraphQL APIs
+**Engineering**
+
+`System Design` · `Distributed Systems` · `Event-Driven Architecture` · `Microservices` · `CI/CD` · `Automated Testing` · `API Design`
 
 ---
 
-## Technical Badges
+## Currently Building
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+### Mintfa
 
----
+**Financial infrastructure for building modern financial products in Africa.**
 
-## Featured Projects
+Mintfa is a modular fintech platform providing infrastructure for businesses and developers to build payment and financial products through unified APIs.
 
-### Lightwind AI
-An AI-powered platform that automates business document workflows and data intelligence. Uses machine learning and natural language processing to analyze, extract, and match documents such as invoices, purchase orders, and contracts, reducing manual work and improving accuracy—while enabling data-driven decisions through predictive analytics and natural language insights.
+Current engineering areas include:
 
-### Nobelync
-A comprehensive health records management system designed to digitize and streamline patient data management. Features include secure medical record storage, patient history tracking, appointment management, and HIPAA-compliant data handling with role-based access controls for healthcare providers.
+* Wallet and ledger infrastructure
+* Payment orchestration
+* Collections and payouts
+* Wallet-to-wallet money movement
+* Holds and fund reservations
+* Settlement and reconciliation
+* Idempotent financial APIs
+* Multi-environment sandbox/live architecture
+* API keys, webhooks and developer tooling
+* Merchant and administrative dashboards
+* Event-driven financial workflows
 
-### EProcurement System
-A comprehensive procurement lifecycle platform that streamlines requisitions, bidding, vendor selection, purchase orders, and deliveries. Features include role-based access control, comprehensive audit trails, and real-time collaboration capabilities.
+**Stack:** Next.js · TypeScript · NestJS · PostgreSQL · Prisma · Redis · Docker · Cloudflare
 
-### KnowledgeBase Platform
-An enterprise knowledge management solution enabling teams to document processes, share insights, and organize institutional knowledge. Includes advanced search functionality, rich text editing, version control, and intelligent tagging systems.
-
-### ERP System
-A modular Enterprise Resource Planning solution encompassing HR management, financial operations, procurement workflows, and asset tracking. Built with scalability and cross-departmental integration as core design principles.
+→ [mintfa.com](https://mintfa.com/)
 
 ---
 
-## Now Playing on Spotify
+### HutYangu
+
+A property marketplace and trust platform designed to make renting, buying and listing property more transparent.
+
+The platform combines marketplace functionality with mechanisms for improving trust between property seekers, landlords, agents and developers.
+
+Engineering areas include:
+
+* Property marketplace architecture
+* Mobile and web applications
+* Property discovery and search
+* Identity and listing verification
+* User reputation and trust systems
+* Payments and subscriptions
+* Real-time platform workflows
+* AI-assisted property experiences
+
+**Stack:** React Native · Expo · Next.js · Node.js · PostgreSQL · Supabase
+
+→ [hutyangu.com](https://hutyangu.com/)
+
+---
+
+## Selected Engineering Work
+
+### Enterprise E-Procurement Platform
+
+Designed and developed a multi-tenant procurement platform covering the complete procurement lifecycle:
+
+`Requisitions → Bidding → Evaluation → Approvals → Purchase Orders → Deliveries → Invoicing → Payments`
+
+Key engineering areas include:
+
+* Multi-tenant architecture
+* Complex approval workflows
+* Vendor and procurement portals
+* Role-based authorization
+* Audit trails
+* Budget management
+* Inventory workflows
+* AI-assisted procurement queries
+* Enterprise integrations
+
+**Stack:** Next.js · NestJS · TypeScript · PostgreSQL · Prisma · Redis
+
+---
+
+### AI Knowledge & Data Systems
+
+Built AI-assisted systems that allow users to interact with structured and unstructured business data using natural language.
+
+Work includes:
+
+* LLM application integration
+* Retrieval-Augmented Generation
+* SQL-aware AI assistants
+* Document analysis
+* Semantic search
+* Embeddings and vector retrieval
+* Streaming AI responses
+* Context-aware enterprise assistants
+
+---
+
+### Enterprise & Business Applications
+
+I’ve also worked on software across:
+
+* Procurement
+* Telecommunications
+* Financial services
+* Healthcare
+* Property technology
+* ERP systems
+* Field operations
+* Knowledge management
+
+---
+
+## Technologies
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square\&logo=cloudflare\&logoColor=white)
+
+---
+
+## Areas I’m Exploring
+
+```text
+Financial Infrastructure
+Distributed Systems
+Payment Systems
+Ledger Architecture
+Event-Driven Systems
+Developer Platforms
+AI Agents
+Applied LLM Systems
+Platform Engineering
+```
+
+---
+
+## Now Playing
 
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/314f2dsltzrkaojwnuq2ax3qapru)
 
 ---
 
-## Let's Connect
+## Connect
 
-📫 [Email](mailto:kennywambu254@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/kennedy-wambua-4623841ba/)  
+📫 [Email](mailto:kennywambu254@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/kennedy-wambua-4623841ba/)
 🌍 [Portfolio](https://kennywam.github.io/)
+⚡ [Mintfa](https://mintfa.com/)
 
 ---
 
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-**Always learning. Always growing. Always building.**
+> Building systems that turn complex real-world problems into reliable software.
